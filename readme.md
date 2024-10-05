@@ -38,8 +38,8 @@ The `sst` (System Set Time) CLI tool helps synchronize your system time with an 
 To use any of these CLI tools, clone this repository and build the respective tools from the source code.
 
 ```bash
-git clone https://github.com/your-username/cli-tools.git
-cd cli-tools
+git clone https://github.com/AakashRawat04/go-projects.git
+cd go-projects
 ```
 
 ### Building a Tool
